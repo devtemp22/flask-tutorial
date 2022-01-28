@@ -7,7 +7,7 @@ parameters:
   default: false
 
 trigger:
-- main
+- master
 
 pool:
   vmImage: ubuntu-latest
